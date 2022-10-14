@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [View Repository Brunches In VS Code](README.md)
+  * [normal way](<View Repository Brunches In VS Code/normal-way.md>)
